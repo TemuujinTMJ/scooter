@@ -947,9 +947,9 @@ input[type="button"] {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   border-radius: 4px;
-  background-color: #272727;
+  background-color: #8dc63f;
   border: 0.2rem solid #272727;
-  color: #8dc63f;
+  /* color: #8dc63f; */
 }
 
 .btn:hover,
