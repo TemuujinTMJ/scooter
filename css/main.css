@@ -949,6 +949,7 @@ input[type="button"] {
   border-radius: 4px;
   background-color: #272727;
   border: 0.2rem solid #272727;
+  color: #8dc63f;
 }
 
 .btn:hover,
